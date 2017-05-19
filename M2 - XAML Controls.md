@@ -1,4 +1,4 @@
-###M2：XAML Controls
+# Exercise ：XAML Controls
 
 本小节介绍如何在界面上添加简单的XAML Controls, 本例中我们用到了`Grid`， `TextBlock`， `Button`， 和`StackPanel`控件。XAML自身所有的控件都声明在`Windows.UI.Xaml.Controls`这个类库中， 您可以去MSDN[1]详细了解各种XAML控件的使用。
 
