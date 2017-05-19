@@ -1,4 +1,4 @@
-###M3: Send Card using Email
+# Exercise 5: Send Card using Email
 
 本小节介绍如何通过邮件将生成的贺卡发送给朋友。使用到了`EmailMessage`API, 需要引入的命名空间为`Windows.ApplicationModel.Email`。
 
