@@ -1,4 +1,4 @@
-###M2：XAML Controls(2)
+# Exercise ：XAML Controls(2)
 
 在前小节中，我们在Card程序的主界面中加入了简单的XAML控件， 本小节将在其基础上进行优化，使界面看上去更加美观。本小节用到了`Grid Control`, `Border Control`，以及XAML控件的`VerticalAlignment`，`HorizontalAlignment`， `Padding`， `Margin`， `TextWrapping`等属性。
 
