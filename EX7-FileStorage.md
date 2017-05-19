@@ -1,4 +1,4 @@
-### M5: Use File Storage
+# Exercise 7: Use File Storage
 本小节介绍UWP中的文件操作，使用到了`FileOpenPicker`API(在`Windows.Storage.Pickers`中）。本例中，单击**打开**文件按钮，然后在图片库中选择照片，将选择的照片用作贺卡背景。学完本节课程，您能够使用`FileOpenPicker`来打开设备文件。留个小作业，请探索使用`FileSavePicker`将文件保存到设备。
 
 在`MainPage.xaml`页面，定位到abtnOpenFile控件，定义单击事件为`OpenFile_Click`。
