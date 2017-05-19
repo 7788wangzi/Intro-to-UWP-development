@@ -2,6 +2,7 @@
 
 This is a tutorial of UWP development, this tutorial will walk you through the whole process, starting from build an empty project, end with publish your app to windows store.
 
+## Watch Videos in YouTube [Intro to UWP development](https://www.youtube.com/watch?v=m-l7jil1fhs&list=PLJJYbPVndXGtoDeITvlYbAfOfK0MLfyGF)
 
 
 
