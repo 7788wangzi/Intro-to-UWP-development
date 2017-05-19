@@ -1,4 +1,4 @@
-###M3: Save UI Element as Image
+# Exercise 4: Save UI Element as Image
 
 本小节将介绍如何将页面元素保存为图片，在前一小节中，我们加入了名称为gridMsg的`Grid Control`，现在我们将使用`RenderTargetBitmap`把gridMsg这个页面元素保存为一张图片。在将gridMsg保存为图片时，会将gridMsg的子元素包括Border和TextBlock一并存储为图片的一部分。学习完本节内容，您能够通过`RenderTargetBitmap`将任何的页面元素存储成图片。
 
