@@ -1,4 +1,4 @@
-# M4: Use CommandBar  
+# Exercise 6: Use CommandBar  
 本小节将介绍如何使用`CommandBar`, CommandBar分为`PrimaryCommands`和`SecondaryCommands`，在`PrimaryCommands`中不要放置多于四个按钮。然后将不常使用的命令放到`SecondaryCommands`中。 
 
 在`MainPage.xaml`页面， 添加`Page.BottomAppBar`， 在CommandBar中新添加四个`AppBarButton`。在CommandBar.SecondaryCommands中添加一个`Menu Item`。
