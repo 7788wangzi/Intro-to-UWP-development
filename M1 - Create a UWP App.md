@@ -1,4 +1,4 @@
-###M1: Create a Blank UWP Application
+# Exercise 1: Create a Blank UWP Application 
 
 本小节介绍如何在Visual Studio中创建一个UWP项目，Visual Studio中提供了快速创建各种项目的类型模板。在Visual Studio 2015中，同样提供了UWP项目模板。 学完本节课程， 您将能够在Visual Studio 2015中创建一个空的UWP项目。
 
