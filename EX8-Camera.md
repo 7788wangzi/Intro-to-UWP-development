@@ -1,4 +1,4 @@
-###M6: Use Camera
+# Exercise 8: Use Camera
 
 本小节介绍UWP中摄像头的使用，使用`CameraCaptureUI`来拍照，不仅能够获得图像，还能够对图像进行剪裁 (目前Mobile设备还上不支持)。 在本例中， 单击Camera按钮调用摄像头来拍摄图像， 并使用`CameraCaptureUI.PhotoSettings.CroppedSizeInPixels`对图像进行剪裁。
 
