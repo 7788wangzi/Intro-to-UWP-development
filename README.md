@@ -7,4 +7,4 @@ This is a tutorial of UWP development, this tutorial will walk you through the w
 
 ID|Exercise|Link
 --|------|---
-1|M1: Create a Blank UWP Application|[C#](/M1 - Create a UWP App.md)
+1|M1: Create a Blank UWP Application|[C#]('M1 - Create a UWP App.md')
