@@ -7,4 +7,4 @@ This is a tutorial of UWP development, this tutorial will walk you through the w
 
 ID|Exercise|Link
 --|------|---
-1|M1: Create a Blank UWP Application| [](http://www.baidu.com)
+1|M1: Create a Blank UWP Application| [b](http://www.baidu.com)
